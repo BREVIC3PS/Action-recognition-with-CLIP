@@ -37,4 +37,6 @@ pip install -r requirements.txt
 这个项目受到项目[natural-language-image-search](https://github.com/haltakov/natural-language-image-search) by [haltakov] 的启发。
 
 
-## 联系方式：1273795523@qq.com
+## 联系方式
+
+1273795523@qq.com
