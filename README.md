@@ -33,6 +33,13 @@ pip install -r requirements.txt
 
 > 注：如果你只想查看运行结果，可以直接运行Action Recognize.ipynb。
 
+### 动作文本集选择
+
+`class.txt`包含了hmdb51数据集中的所有动作类别；
+`k400cls.txt`中包含了Kinetics-400数据集的所有类别；
+除此之外，你还可以根据自己的情况添加或修改文本集中的内容。
+请根据不同情况决定动作文本集的使用。
+
 ## 致谢
 这个项目受到项目[natural-language-image-search](https://github.com/haltakov/natural-language-image-search) by [haltakov] 的启发。
 
